@@ -1943,6 +1943,14 @@ section,
   margin: 0;
   font-size: 14px;
 }
+.btn.btn-primary {
+      background-color: #e87532 !important;
+      border-color: #e87532 !important;
+    }
+.btn.btn-primary:hover, .btn.btn-primary:focus {
+      background-color: #cf6a2c !important;
+      border-color: #cf6a2c !important;
+    }
 
 @media (max-width: 991px) {
 
